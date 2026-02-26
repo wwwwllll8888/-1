@@ -205,7 +205,7 @@ A0 將各模組資訊整合成三大人格向量：
 
 A1 臉型資料庫：   
 
-來源：＿＿＿＿ 
+來源：https://github.com/wwwwllll8888/A1/blob/main/README.md
 
  
 
